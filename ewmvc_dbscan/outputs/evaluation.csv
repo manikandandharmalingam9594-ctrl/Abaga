@@ -1,0 +1,12 @@
+metric,value
+total_observations,9774.0
+clustered_observations,9708.0
+noise_observations,66.0
+noise_fraction,0.006752608962553714
+total_ghost_observations,80.0
+ghost_observations_inside_clusters,14.0
+ghost_observations_rejected_as_noise,66.0
+ghost_rejection_rate_by_noise,0.825
+number_of_clusters,72.0
+largest_cluster_size,176.0
+average_cluster_size,134.83333333333334
